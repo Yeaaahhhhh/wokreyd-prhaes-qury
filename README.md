@@ -7,5 +7,5 @@
 
 |Student name| CCID |
 |------------|------|
-|Dexter Dai   | xiangtia     |
-|Qingya Ye  |  qye    |
+|Dexter  |  d   |
+|Qingya |  q  |
